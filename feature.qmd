@@ -1,0 +1,5 @@
+---
+title: "Feature"
+page-layout: full
+title-block-banner: true
+---
