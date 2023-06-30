@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "labor&stat"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: facebook
+        href: https://facebook.com
+format:
+  html:
+    theme: cosmo
+    css: mystyles.css
+
+editor: visual
+
