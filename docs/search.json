@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "labor&stat",
     "section": "",
-    "text": "나의 첫 포스팅입니다\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 30, 2023\n\n\n박영삼\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 30, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 27, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "나의 첫 포스팅입니다\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 30, 2023\n\n\n박영삼\n\n\n\n\n\n\n  \n\n\n\n\n나의 두번째 포스팅입니다\n\n\n\n\n\n\n\nnews\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 30, 2023\n\n\n박영삼\n\n\n\n\n\n\n  \n\n\n\n\n세번째 포스트입니다\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 30, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nJun 30, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nJun 27, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/my-new-post/index.html",
@@ -19,6 +19,20 @@
     "title": "나의 첫 포스팅입니다",
     "section": "",
     "text": "나의 첫 포스팅입니다"
+  },
+  {
+    "objectID": "posts/my-second-post/index.html",
+    "href": "posts/my-second-post/index.html",
+    "title": "나의 두번째 포스팅입니다",
+    "section": "",
+    "text": "나의 두번째 포스팅입니다"
+  },
+  {
+    "objectID": "posts/my-third-post/index.html",
+    "href": "posts/my-third-post/index.html",
+    "title": "세번째 포스트입니다",
+    "section": "",
+    "text": "이것은 세번째 포스트입니다."
   },
   {
     "objectID": "posts/post-with-code/index.html",
