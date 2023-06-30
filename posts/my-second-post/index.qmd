@@ -1,9 +1,0 @@
----
-title: "나의 두번째 포스팅입니다"
-author: "박영삼"
-date: "2023-06-30"
-categories: [news, analysis]
-image: "image.jpg"
----
-
-나의 두번째 포스팅입니다

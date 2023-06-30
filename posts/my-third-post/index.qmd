@@ -1,9 +1,0 @@
----
-title: "세번째 포스트입니다"
-author: "Harlow Malloc"
-date: "2023-06-30"
-categories: [news, code, analysis]
-image: "image.jpg"
----
-
-이것은 세번째 포스트입니다.
