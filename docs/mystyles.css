@@ -12,15 +12,23 @@ h1 {
 }
 
 h2 {
-  font-size: 150%
+  font-size: 180%
 }
 
 h3 {
+  font-size: 140%
+}
+
+h4 {
   font-size: 130%
 }
 
-h4, h5, h6 {
+h5 {
   font-size: 120%
+}
+
+h6 {
+  font-size: 115%
 }
 
 ul, li, ol{
