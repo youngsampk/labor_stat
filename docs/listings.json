@@ -7,5 +7,13 @@
       "/posts/labornews-001/index.html",
       "/posts/labornews-000/index.html"
     ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/mytomorrows.html",
+      "/research/pharmaccess.html",
+      "/research/sensire.html"
+    ]
   }
 ]

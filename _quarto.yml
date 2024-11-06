@@ -7,10 +7,10 @@ website:
   description: "This is Youngsam Park's personal Blog."
   navbar:
     left:
-      - text: "Home"
+      - text: "Blog"
         file: index.qmd
-      - text: "Feature"
-        file: feature.qmd
+      - text: "Research"
+        href: research/index.qmd
       - text: "About"
         file: about.qmd
     right:

@@ -1,12 +1,21 @@
 /*-- scss:defaults --*/
 
 // Fonts
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Fira+Mono&family=Domine:wght@400;700;900&family=Nunito:wght@400;900&Noto+Sans+KR&Noto+Serif+KRdisplay=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&family=Zilla+Slab+Highlight&family=Noto+Sans+KR&family=Noto+Serif+KR&display=swap)');
+
+// Fonts
+$zilla-slab: "Zilla Slab", serif;
+$zilla-slab-highlight: "Zilla Slab Highlight", serif;   
+
+$headings-font-family: $zilla-slab;
+$navbar-default-font: $zilla-slab;
+
 
 // Colors
 
 // Most colors adopted from https://palx.jxnblk.com/
 // with base color #0b7366
+
 
 $white:  #fff;
 $gray-0: #f9f9f9;
@@ -52,9 +61,10 @@ $min-contrast-ratio:   7;
 
 /*-- scss:rules --*/
 
-.navbar-title {
-  font-family: Noto Sans KR, sans;
-  font-weight: 700;
+.navbar-title, .navbar {
+  font-family: Noto Sans KR;
+  font-size: 1.1em;
+  font-weight: 500;
 }
 
 h1, h2 {
@@ -88,12 +98,12 @@ h4 {
 h5, h6 {
   font-size: 1.05em;
   font-weight: 600;
-  font-family: Domine, serif;
+  font-family: Noto Sans KR, serif;
   color: $secondary;
 }
 
 .fa-solid, .fab, .fa-brands {
-    font-family: 'Font Awesome 6 Brands';
+    font-family: 'Noto Sans KR';
     font-weight: 400;
     color: $teal;
 }
@@ -109,15 +119,15 @@ p.subtitle.lead {
 
 body {
   font-size: 0.95em;
-  font-family: Noto Serif KR, Times New Roman, sans-serif;
-  color: $black;
+  font-family: Noto Sans KR, Arial, sans;
+  color: $gray-9;
   background-color: $light;
 }
 
 // code
 
 code {
-  font-family: Fira Mono, monospace;
+  font-family: Noto Serif KR, monospace;
 }
 
 .sourceCode pre code {
@@ -162,10 +172,21 @@ code {
   }
 }
 
-.body .listing-title{
+.listing-title{
   font-size: 1.3em; /* Adjust the font size as desired */
-  font-family: Noto Sans KR, Arial, sans-serif;
-  color: $teal;
+  font-family: Noto Sans KR, sans;
+  font-weight: 600;
+  color: $teal-dark1;
+}
+
+.body .listing-title{
+  font-size: 1.2em; /* Adjust the font size as desired */
+  font-family: Noto Sans KR, sans;
+}
+
+.listing-categories{
+  font-size: 1.2em; /* Adjust the font size as desired */
+  font-family: Noto Sans KR, sans;
 }
 
 
@@ -178,7 +199,7 @@ code {
 /* Adjusts the font size of category links in the sidebar */
 .sidebar .quarto-listing-category .category {
   font-size: 0.9em; /* Adjust the font size as desired */
-  font-family: Noto Sans KR, Arial, sans-serif;
+  font-family: Noto Sans KR, sans;
   color: $gray-8;
 
 }
