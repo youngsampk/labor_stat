@@ -1,6 +1,6 @@
 ---
 title: "Park, Youngsam"
-image: images/yspark.png
+image: yspark.png
 about:
   template: jolla
   links:
