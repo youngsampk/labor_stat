@@ -1,5 +1,5 @@
 ---
-title: Research under preparation
+title: Research - under preparation
 listing:
     contents: .
     type: grid
