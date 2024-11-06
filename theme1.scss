@@ -136,10 +136,12 @@ code {
 
 // images
 
-.figure-img {
-    margin-bottom: 0;
-    line-height: 0;
-    border-radius: 5px;
+/* Center-align figures */
+.quarto-figure {
+  display: flex;
+  flex-direction: column; /* Ensures caption is below the image */
+  align-items: center;    /* Centers both image and caption hor */
+  text-align: center;     /* Centers the caption text */
 }
 
 // specific classes
