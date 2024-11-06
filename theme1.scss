@@ -35,7 +35,7 @@ $primary:       $teal;
 $secondary:     $orange-dark;
 $light:         $teal-light1;
 $light-accent:  $gray-3;
-$dark:          $gray-9;
+$dark:          $black;
 
 // Base document colors
 $navbar-bg: $primary; // navbar
@@ -110,6 +110,7 @@ p.subtitle.lead {
 body {
   font-size: 0.95em;
   font-family: Noto Serif KR, Times New Roman, sans-serif;
+  color: $black;
   background-color: $light;
 }
 
@@ -161,11 +162,26 @@ code {
   }
 }
 
+.body .listing-title{
+  font-size: 1.3em; /* Adjust the font size as desired */
+  font-family: Noto Sans KR, Arial, sans-serif;
+  color: $teal;
+}
+
+
 .sidebar-navigation .sidebar-divider {
     color: white;
 }
 
 // github icon button
+
+/* Adjusts the font size of category links in the sidebar */
+.sidebar .quarto-listing-category .category {
+  font-size: 0.9em; /* Adjust the font size as desired */
+  font-family: Noto Sans KR, Arial, sans-serif;
+  color: $gray-8;
+
+}
 
 .bi-github {
   color: white;
