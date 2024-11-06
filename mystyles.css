@@ -1,6 +1,6 @@
 /* css styles */
 /* css styles */
-@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css); 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Noto Sans KR' !important;
@@ -32,22 +32,24 @@ h6 {
 }
 
 ul, li, ol{
-    font-family: 'Noto Sans KR' sans-serif;
+    font-family: 'Noto Serif KR' sans-serif;
     font-size: 110%;
    }
 
 p {
-    font-family: 'Noto Sans KR' sans-serif;
-    font-size: 95%;
+    font-family: 'Noto Serif KR' serif;
+    font-size: 100%;
     font-weight: 400; 
 }
-
+body {
+    font-family: 'Noto Serif KR', serif;
+}
 .category {
   font-size: 100%;
 }
 
 .sourceCode {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Serif KR', sans-serif;
   font-size: 100%;
 }
 

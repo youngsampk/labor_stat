@@ -27,8 +27,10 @@ website:
 #########################
 format:
   html:
-    theme: cosmo
-    css: mystyles.css
+    theme: 
+      - cosmo
+      - theme1.scss
+#    css: mystyles.css
 
-editor: visual
+editor: source
 

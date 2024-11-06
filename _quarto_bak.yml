@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Labor & Statistics"
+  description: "This is Youngsam Park's personal Blog."
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Feature"
+        file: feature.qmd
+      - text: "About"
+        file: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: facebook
+        href: https://facebook.com
+#########################
+# You can ignore this part in the first step
+      - icon: rss
+        href: index.xml
+      - text: Blogger
+        href: http://yspark1968.blogspot.com/
+#########################
+format:
+  html:
+    theme: cosmo
+    css: mystyles.css
+
+editor: visual
+
