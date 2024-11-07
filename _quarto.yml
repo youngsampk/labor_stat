@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Labor & Society"
+  title: "Labor & Stat"
   description: "This is Youngsam Park's personal Blog."
   navbar:
     left:

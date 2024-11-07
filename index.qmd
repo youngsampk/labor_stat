@@ -1,5 +1,5 @@
 ---
-title: "Labor & Society"
+title: "Labor & Stat"
 listing:
   contents: posts/**/*.qmd
   sort: "date desc"
