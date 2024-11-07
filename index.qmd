@@ -1,5 +1,5 @@
 ---
-title: "Stat, Story & Society"
+title: "News & Column"
 listing:
   contents: posts/**/*.qmd
   sort: "date desc"

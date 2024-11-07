@@ -63,8 +63,8 @@ $min-contrast-ratio:   7;
 /*-- scss:rules --*/
 
 .navbar-title, .navbar {
-  font-family: Noto Sans KR;
-  font-size: 0.8em;
+  font-family: $zilla-slab;
+  font-size: 1em;
   font-weight: 500;
 }
 
