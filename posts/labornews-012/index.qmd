@@ -33,7 +33,7 @@ fig-cap-location: top
 
 ##### 국민 94% “기후변화 문제 중요하다”
 
-그렇다면 우리나라 국민은 기후변화가 얼마나 심각하고, 이에 대응하기 위해 어떤 정책이 필요하다고 생각하고 있을까. 지난해 7월 OECD는 20개 회원국 4만여명을 대상으로 기후변화에 대응하는 [주요 정책 국민인식을 비교 조사](https://www.oecd.org/en/publications/fighting-climate-change-international-attitudes-toward-climate-policies_3406f29a-en.html)를 했다.
+그렇다면 우리나라 국민은 기후변화가 얼마나 심각하고, 이에 대응하기 위해 어떤 정책이 필요하다고 생각하고 있을까. 지난해 7월 OECD는 20개 회원국 4만여명을 대상으로 기후변화에 대응하는 주요 정책 국민인식을 비교 조사를 했다. ☛ [자료 보기(Fighting climate change: International attitudes toward climate policies)](https://www.oecd.org/en/publications/fighting-climate-change-international-attitudes-toward-climate-policies_3406f29a-en.html)
 
 먼저 “기후변화가 매우 중대한 문제인가?”라는 질문에 대해 “그렇다”고 공감한 사람의 비율은 한국이 94%로 이탈리아와 공동 1위였다. 반면 미국은 76%의 응답률로 조사대상국에서는 꼴찌를 차지했다. 호주, 덴마크, 프랑스, 영국 등의 유럽 국가들도 중국과 함께 낮은 응답률을 보인 것이 이채롭다.
 
@@ -45,7 +45,7 @@ fig-cap-location: top
 
 세부적인 기후위기 대응정책을 보자. 한국의 경우 ‘내연기관 자동차생산 금지’에는 68%의 찬성률을 보였다. 다른 자동차생산 선진국(미국 50%, 일본 48%, 독일 42%)보다 높은 지지율이다. 탄소세 도입에 찬성 비율도 53%로 다른 선진국(미국 33%, 일본 35%, 독일 28%)보다 높았다.
 
-![](20241107_111723.png){fig-align="center" .lightbox}
+![](20241107_111723.png){.lightbox fig-align="center"}
 
 하지만 개인의 실천에서는 저조한 응답률을 보였다. 육류소비 억제(36%), 자동차 운행제한(36%), 난방 축소(29%) 등으로 다른 선진국과 비슷했다. 탄소세를 도입할 경우 재원의 사용 용도를 가구에 대한 균등배분(42%)이나 법인세 감면(48%)보다는 환경 인프라 투자(79%)와 저탄소기술에 대한 보조금(78%)이 더 높은 지지를 받았다.
 
