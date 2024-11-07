@@ -3,7 +3,7 @@ title: "젊은 세대·여성 조합원 늘어난 한국 노조"
 author: "박영삼"
 date: "2023-04-28"
 toc: true
-categories: [노동조합, 조직률, 여성, 청년, 노조]
+categories: [노동조합, 조직률, 경제활동인구, 부가조사]
 image: "union.jpg"
 ---
 

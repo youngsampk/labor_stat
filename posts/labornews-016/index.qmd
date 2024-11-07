@@ -3,7 +3,7 @@ title: "‘비정규직 통계’ 뜨거운 공방은 옛말, 노동계-정부 �
 author: "박영삼"
 date: "2023-11-24"
 toc: true
-categories: [경활부가, 비정규직]
+categories: [경제활동인구, 부가조사, 비정규직, 비정규노동센터]
 image: "218940_96197_5812.jpg"
 editor: source
 fig-cap-location: top

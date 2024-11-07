@@ -3,7 +3,7 @@ title: "청년 고용률 하락과 ‘쉬었음’ 증가, 심상치 않다"
 author: "박영삼"
 date: "2023-07-21"
 toc: true
-categories: [청년 고용률, 쉬었음, 노동시장, 비경제활동인구, 청년]
+categories: [청년고용, 쉬었음, 비경제활동인구, 경제활동인구조사]
 image: "216333_93545_3451.jpg"
 editor: source
 fig-cap-location: top

@@ -3,7 +3,7 @@ title: "올바른 복지재원 마련 ‘부자 증세’ 35%, ‘국민 모두�
 author: "박영삼"
 date: "2023-05-12"
 toc: true
-categories: [복지정책, 복지인식, 증세, 복지패널]
+categories: [복지정책, 복지패널, 증세, 재분배]
 image: "215040_92368_4113.jpg"
 editor: source
 ---

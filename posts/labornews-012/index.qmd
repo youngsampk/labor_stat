@@ -3,7 +3,7 @@ title: "탄소배출 세계 7위 한국, 기후변화를 어떻게 인식할까?
 author: "박영삼"
 date: "2023-09-05"
 toc: true
-categories: [기후위기, 이산화탄소, 탄소배출량, OECD, 개인 실천]
+categories: [기후위기, 탄소배출량, OECD, 기후인식]
 image: "217340_94531_3230.jpg"
 editor: source
 fig-cap-location: top

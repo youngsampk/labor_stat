@@ -3,7 +3,7 @@ title: "한국 노조 신뢰도 ‘국제비교 중간 수준’"
 author: "박영삼"
 date: "2023-04-07"
 toc: true
-categories: [news, column, 노동, 노동조합, 노조신뢰도, 세계가치관조사, WVS]
+categories: [노동조합, 노조신뢰도, 사회통합실태조사, 세계가치관조사, WVS]
 image: "news_01.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "고용허가제 취업자 25만명, 지난해 대비 5만명 순증"
 author: "박영삼"
 date: "2023-10-13"
 toc: true
-categories: [외국인, 이주노동자]
+categories: [외국인, 이주노동자, 고용행정통계, 한국고용정보원]
 image: "217719_94926_2614.jpg"
 editor: source
 fig-cap-location: top

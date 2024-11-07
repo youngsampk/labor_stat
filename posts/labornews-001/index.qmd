@@ -2,7 +2,7 @@
 title: "소득분배, 3년간 개선하다 악화한 까닭"
 author: "박영삼"
 date: "2023-03-24"
-categories: [news, column, 노동, 소득분배, 가계금융복지조사]
+categories: [소득분배, 가계금융복지조사, 소득불평등]
 image: "news_01.jpg"
 ---
 

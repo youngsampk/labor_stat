@@ -3,7 +3,7 @@ title: "비정규직 사회보험 가입률, 고용보험 꼴찌에서 일등으
 author: "박영삼"
 date: "2023-10-27"
 toc: true
-categories: [고용보험, 비정규직]
+categories: [고용보험, 비정규직, 특수고용, 경제활동인구, 부가조사]
 image: "217953_95187_5537.jpg"
 editor: source
 fig-cap-location: top

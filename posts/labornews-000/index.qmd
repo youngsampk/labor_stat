@@ -2,7 +2,7 @@
 title: "여성, 39세에 맞는 잔인한 일자리 퇴출"
 author: "박영삼"
 date: "2023-03-10"
-categories: [news, column, 노동, 지역별고용조사]
+categories: [지역별고용조사, 노동시장, 생애주기]
 image: "news_01.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "소득보다 빨리 증가하는 자본 축적, 원인은 토지가격"
 author: "박영삼"
 date: "2023-07-07"
 toc: true
-categories: [국민대차대조표, 자산불평등, 토지가격, 소득대비, 부동산]
+categories: [국민대차대조표, 자산불평등, 토지가격, 부동산, 피케티비율]
 image: "20241107_042614.png"
 editor: source
 fig-cap-location: top
