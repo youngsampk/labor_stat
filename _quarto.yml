@@ -3,11 +3,11 @@ project:
   output-dir: docs
 
 website:
-  title: "Park Y.S."
+  title: "park youngsam"
   description: "This is Youngsam Park's personal Blog."
   navbar:
     left:
-      - text: "News & Column"
+      - text: "News | Column"
         file: index.qmd
       - text: "Research"
         href: research/index.qmd

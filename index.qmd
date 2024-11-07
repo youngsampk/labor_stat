@@ -1,5 +1,5 @@
 ---
-title: "News & Column"
+title: "News | Column"
 listing:
   contents: posts/**/*.qmd
   sort: "date desc"
