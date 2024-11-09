@@ -31,6 +31,9 @@ format:
       - cosmo
       - theme1.scss
 #    css: mystyles.css
-
+    crossref:
+      fig-title: "그림"   # (default is "Figure")
+      tbl-title: "표"    # (default is "Table")
+      fig-prefix: "그림"   # (default is "Figure")
+      tbl-prefix: "표"    # (default is "Table")
 editor: source
-
