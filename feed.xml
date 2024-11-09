@@ -20,6 +20,10 @@
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ site.url }}{{ post.url }}</link>
       <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+       <!-- publication 필드 추가 -->
+      {% if post.publication %}
+      <publication>{{ post.publication | xml_escape }}</publication>
+      {% endif %}
       </item>
       {% endfor %}
     </channel>
