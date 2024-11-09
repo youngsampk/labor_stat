@@ -3,7 +3,7 @@ title: "서울시 5명 미만 사업장 노동자, 4명 중 1명 강남 3구에�
 author: "박영삼"
 date: "2023-06-09"
 toc: true
-categories: [5인미만, 서울시, 근로기준법, 지역별고용조사]
+categories: [5인미만, 지역별고용조사, 노동시장]
 image: "215502_92787_5452.jpg"
 editor: source
 ---

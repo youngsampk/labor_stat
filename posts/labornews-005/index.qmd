@@ -3,7 +3,7 @@ title: "노동자가구 실질소득 증가율 ‘마이너스’ 경고등"
 author: "박영삼"
 date: "2023-05-26"
 toc: true
-categories: [가계소득, 노동자가구, 실질소득, 물가, 최저임금]
+categories: [소득분배, 물가, 최저임금]
 image: "215282_92573_2753.jpg"
 editor: source
 ---

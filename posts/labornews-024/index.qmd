@@ -3,7 +3,7 @@ title: 높아진 비정규직 비율, 노동계 기준도 42% 넘을 듯
 author:  "박영삼"
 date: "2024-10-25"
 toc: true
-categories: [경제활동인구 부가조사, 비정규직, 통계 공방]
+categories: [경제활동인구, 비정규직, 노동시장]
 image: "224315_101893_4957.jpg"
 editor: source
 fig-cap-location: top

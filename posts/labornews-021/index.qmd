@@ -3,7 +3,7 @@ title: 비혼단신 노동자가구 올해 1분기 가계지출 9.5% 증가
 author:  "박영삼"
 date: "2024-06-07"
 toc: true
-categories: [가계동향, 최저임금, 비혼단신가구]
+categories: [가계동향, 최저임금, 소득분배, 소비지출]
 image: "221926_99308_2236.jpg"
 editor: source
 fig-cap-location: top

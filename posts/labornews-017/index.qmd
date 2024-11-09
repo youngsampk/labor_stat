@@ -3,7 +3,7 @@ title: "노조원이 가장 많은 직업은?"
 author: "박영삼"
 date: "2024-01-19"
 toc: true
-categories: [고용형태별근로실태, 임금구조기본통계조사, 노동조합, 조직률]
+categories: [고용형태별근로실태, 임금구조기본통계조사, 노동조합]
 image: "219394_96666_3929.jpg"
 editor: source
 fig-cap-location: top

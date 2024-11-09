@@ -3,7 +3,7 @@ title: "한국 의사 임금 간호사의 3.7배, 임금격차 OECD 1위"
 author: "박영삼"
 date: "2023-08-04"
 toc: true
-categories: [의사, 간호사, OECD, 보건통계]
+categories: [보건의료, OECD, 보건통계]
 image: "216597_93856_503_v150.jpg"
 editor: source
 fig-cap-location: top
