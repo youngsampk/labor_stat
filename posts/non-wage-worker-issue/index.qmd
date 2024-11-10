@@ -8,8 +8,8 @@ categories: [Research, 3.3, 비임금노동, 비정규직, 노동시장]
 image: "20241108_181622.png"
 editor: source
 fig-cap-location: top
-bibliography: refer_nonwage.bib
-csl: yspark.csl
+bibliography: ../../reference/refer_nonwage.bib
+csl: ../../reference/yspark.csl
 nocite: |
   @*
 ---

@@ -326,6 +326,16 @@
        Legal: bill legal_case legislation treaty
   -->
   <!-- APA references contain four parts: author, date, title, source -->
+  <macro name="language-sort">
+    <choose>
+      <if variable="language">
+        <text value="korean-han"/>
+      </if>
+      <else>
+        <text value="english"/>
+      </else>
+    </choose>
+  </macro>
   <macro name="author-bib">
     <names variable="composer" delimiter=", ">
       <name name-as-sort-order="all" and="symbol" sort-separator=", " initialize-with=". " delimiter=", " delimiter-precedes-last="always"/>
@@ -1863,12 +1873,7 @@
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="true" disambiguate-add-givenname="true" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
     <sort>
-      <key variable="langid" sort="ascending">
-          <choose>
-              <if variable="langid" match="any" value="korean-han"/>
-              <else/>
-          </choose>
-      </key>
+      <key macro="language-sort" sort="ascending"/>  
       <key macro="author-bib" names-min="3" names-use-first="1"/>
       <key macro="date-sort-group"/>
       <key macro="date-sort-date" sort="ascending"/>
@@ -1884,6 +1889,7 @@
   </citation>
   <bibliography hanging-indent="true" et-al-min="21" et-al-use-first="19" et-al-use-last="true" entry-spacing="0" line-spacing="2">
     <sort>
+      <key macro="author-bib"/>
       <key macro="author-bib"/>
       <key macro="date-sort-group"/>
       <key macro="date-sort-date" sort="ascending"/>
