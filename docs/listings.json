@@ -37,5 +37,36 @@
       "/research/pharmaccess.html",
       "/research/sensire.html"
     ]
+  },
+  {
+    "listing": "/archive.html",
+    "items": [
+      "/posts/non-wage-worker-issue/index.html",
+      "/posts/labornews-024/index.html",
+      "/posts/labornews-023/index.html",
+      "/posts/labornews-022/index.html",
+      "/posts/labornews-021/index.html",
+      "/posts/labornews-020/index.html",
+      "/posts/labornews-019/index.html",
+      "/posts/labornews-018/index.html",
+      "/posts/labornews-017/index.html",
+      "/posts/labornews-015/index.html",
+      "/posts/labornews-016/index.html",
+      "/posts/labornews-014/index.html",
+      "/posts/labornews-013/index.html",
+      "/posts/labornews-012/index.html",
+      "/posts/labornews-010/index.html",
+      "/posts/labornews-011/index.html",
+      "/posts/labornews-009/index.html",
+      "/posts/labornews-008/index.html",
+      "/posts/labornews-007/index.html",
+      "/posts/labornews-006/index.html",
+      "/posts/labornews-005/index.html",
+      "/posts/labornews-004/index.html",
+      "/posts/labornews-003/index.html",
+      "/posts/labornews-002/index.html",
+      "/posts/labornews-001/index.html",
+      "/posts/labornews-000/index.html"
+    ]
   }
 ]
