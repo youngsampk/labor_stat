@@ -3,6 +3,9 @@
     font-size: 3em; /* Adjust this size as needed */
 }
 
+.reveal subtitle {
+    font-size: 2em; /* Adjust this size as needed */
+}
 /* Adjust the font sizes for headers */
 .reveal h1 {
     font-size: 1.4em; /* Adjust this size as needed */
@@ -15,11 +18,11 @@
 }
 
 .reveal author {
-    font-size: 12pt; /* Adjust this size as needed */
+    font-size: 10px; /* Adjust this size as needed */
 }
 
 .reveal footer {
-    font-size: 14pt; /* Adjust this size as needed */
+    font-size: 10px; /* Adjust this size as needed */
 }
 .reveal footnote {
     font-size: 14pt; /* Adjust this size as needed */
