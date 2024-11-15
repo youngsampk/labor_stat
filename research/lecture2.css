@@ -1,0 +1,55 @@
+/* Adjust the title font size */
+.reveal h1.title-slide-title {
+    font-size: 3em; /* Adjust this size as needed */
+}
+
+/* Adjust the font sizes for headers */
+.reveal h1 {
+    font-size: 1.4em; /* Adjust this size as needed */
+}
+.reveal h2 {
+    font-size: 1.1em; /* Adjust this size as needed */
+}
+.reveal h3 {
+    font-size: 1.2em; /* Adjust this size as needed */
+}
+
+.reveal author {
+    font-size: 12pt; /* Adjust this size as needed */
+}
+
+.reveal footer {
+    font-size: 14pt; /* Adjust this size as needed */
+}
+.reveal footnote {
+    font-size: 14pt; /* Adjust this size as needed */
+}
+
+/* Adjust the size of body text */
+body {
+    font-size: 20pt; /* Adjust this value as needed */
+}
+
+/* Optionally, adjust paragraph text */
+.reveal p {
+    font-size: 18pt; /* Adjust this value as needed */
+}
+.reveal figcaption {
+    font-size: 12pt; /* Adjust the size as needed */
+}
+/* Adjust the font size of bullet points in unordered lists */
+.reveal ul {
+    font-size: 18pt; /* Adjust the size as needed */
+}
+
+/* Optionally, adjust the size for nested lists (if you have sub-bullets) */
+.reveal ul ul {
+    font-size: 18pt; /* Adjust this as needed for nested lists */
+}
+
+.reveal #refs {
+  font-size: 11pt; /* Adjust this size as needed */
+  color: #333;      /* Optional: change text color */
+  line-height: 1.5; /* Optional: adjust line spacing */
+}
+
