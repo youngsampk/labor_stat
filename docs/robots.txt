@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Sitemap: https://youngsampk.github.io/labor_stat/sitemap.xml
+Allow:/
