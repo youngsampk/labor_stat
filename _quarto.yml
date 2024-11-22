@@ -36,4 +36,5 @@ format:
       tbl-title: "표"    # (default is "Table")
       fig-prefix: "그림"   # (default is "Figure")
       tbl-prefix: "표"    # (default is "Table")
+    include-after-body: gtag.js
 editor: source
