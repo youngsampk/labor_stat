@@ -68,7 +68,7 @@ fig-cap-location: top
 ![정당 지지층의 연령과 이념성향](koelec3.png){#fig-koelec3 fig-align="center" .lightbox .border}  
 
 ::: source-note
-자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/authoring/20212024_3/13/%EC%97%B0%EB%A0%B9-%EC%9D%B4%EB%85%90#2))
+자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/views/_17322927805880/__7?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 :::
 
 
@@ -83,7 +83,7 @@ fig-cap-location: top
 ![이념성향의 성별 차이(연령, 소득계층)](koelec4.png){#fig-koelec4 fig-align="center" .lightbox .border}
 
 ::: source-note
-자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/authoring/20212024_3/13/%EC%9D%B4%EB%85%90-%EA%B3%84%EC%B8%B5-%EC%84%B1%EB%B3%84#2))
+자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/views/20212024_3/15?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 :::
 
 
@@ -97,7 +97,7 @@ fig-cap-location: top
 ![성/연령/소득계층 모두 고려한 이념성향 비교](koelec5.png){#fig-koelec5 fig-align="center" .lightbox .border}  
 
 ::: source-note
-자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/authoring/20212024_3/13/%EC%84%B1-%EC%97%B0%EB%A0%B9-%EA%B3%84%EC%B8%B5#2))
+자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/views/_17322930604440/16?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 :::
 
 
