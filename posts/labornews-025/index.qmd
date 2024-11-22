@@ -68,7 +68,7 @@ fig-cap-location: top
 ![정당 지지층의 연령과 이념성향](koelec3.png){#fig-koelec3 fig-align="center" .lightbox .border}  
 
 ::: source-note
-자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/views/_17322935754250/17?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+자료: Tableau로 필자 작성([데이터 보기](https://public.tableau.com/views/_17322927805880/17?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 :::
 
 
