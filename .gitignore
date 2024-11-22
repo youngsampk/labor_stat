@@ -4,7 +4,7 @@
 .Ruserdata
 .Renviron
 robots.txt
-/docs/robots.txt
+docs/robots.txt
 naver*.html
 google*.html
 sitemap.xml
