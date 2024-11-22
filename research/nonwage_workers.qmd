@@ -18,7 +18,6 @@ format:
 #    logo: logo-korea-university-square.png
     footer: "[https://youngsampk.github.io/labor_stat/](https://youngsampk.github.io/labor_stat)"
     css: lecture2.css
-    pdf: default
 bibliography: refer_nonwage.bib
 nocite: |
   @*

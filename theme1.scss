@@ -130,11 +130,16 @@ body {
   background-color: $light;
 }
 
+p {
+  margin-bottom: 1em; /* Adds spacing between paragraphs */
+  line-height: 1.6;   /* Adjusts line height for readability */
+}
+
 .source-note {
     font-size: 0.9em;
     color: #666;
     text-align: left;
-    margin-top: -10px;
+    margin-top: -20px;
 }
 
 // code
