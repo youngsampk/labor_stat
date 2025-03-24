@@ -33,7 +33,7 @@ nocite: |
 
 ![전년 대비 소득증가율](inc.png){#fig-inc}
 
-![소득자수 증감](pinc.png){#fig-pinc}
+![소득자수 증감](pinc.png){#fig-pinc fig-align="center" .lightbox}
 
 -   소득신고자 수에 있어서는 전년대비 근로소득자는 313천명 증가(1.5%), 종합소득자는 1,206천명(11.7%), 통합소득자는 657천명(2.5%) 각각 증가 ⇒ 종합소득자의 증가규모와 증가율이 매우 높은 상황. 플랫폼특고, 프리랜서 형태의 고용증가와 N잡러 증가의 영향
 
@@ -41,7 +41,7 @@ nocite: |
 
 백분위를 구분하여 전년 대비 통합소득 증가율을 비교하면 2019\~19년 시기와 2020년 이후 시기가 확연히 달리짐
 
-::: {#fig-means layout-nrow="3"}
+::: {#fig-means layout-nrow="3"  fig-align="center" .lightbox}
 ![2018년](2018_100.png){#fig-2018 height="250"}
 
 ![2020년](2020_100.png){#fig-2020 height="250"}
@@ -70,11 +70,11 @@ nocite: |
 -   종합소득은 편차가 심해 최상위 0.1%는 18억 4,657만원이 넘어야 했고 상위1%도 2억 5,871만원, 상위5%도 1억 542만원을 넘겨야 함. 상위10%는 6,673만원을 넘어야 했는데, 종합소득자의 상위20% 경계값는 3,919만원으로 경계값이 매우 낮음
 
 ::: {#fig-mean layout-nrow="3"}
-![통합소득](means1.png){#fig-mean1}
+![통합소득](means1.png){#fig-mean1  fig-align="center" .lightbox}
 
-![근로소득](means2.png){#fig-mean2}
+![근로소득](means2.png){#fig-mean2  fig-align="center" .lightbox}
 
-![종합소득](means3.png){#fig-mean3}
+![종합소득](means3.png){#fig-mean3  fig-align="center" .lightbox}
 
 상위소득계층 평균소득과 경계값(2012\~2023)
 :::
