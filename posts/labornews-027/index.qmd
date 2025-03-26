@@ -4,7 +4,7 @@ author:  "박영삼"
 date: "2025-03-14"
 toc: true
 categories: [국세통계, 통합소득, 상위10%, 개인소득]
-image: "labornews_apt.jpg"
+image: "tincome4.jpg"
 editor: source
 fig-cap-location: top
 ---
