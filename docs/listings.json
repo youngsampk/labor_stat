@@ -1,6 +1,15 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/research/index.html",
+    "items": [
+      "/research/mytomorrows.html",
+      "/research/nonwage_workers.html",
+      "/research/pharmaccess.html",
+      "/research/sensire.html"
+    ]
+  },
+  {
+    "listing": "/archive.html",
     "items": [
       "/posts/labornews-028/index.html",
       "/posts/against-marshall-law/index.html",
@@ -37,16 +46,7 @@
     ]
   },
   {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/mytomorrows.html",
-      "/research/nonwage_workers.html",
-      "/research/pharmaccess.html",
-      "/research/sensire.html"
-    ]
-  },
-  {
-    "listing": "/archive.html",
+    "listing": "/index.html",
     "items": [
       "/posts/labornews-028/index.html",
       "/posts/against-marshall-law/index.html",
