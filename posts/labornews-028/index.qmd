@@ -1,10 +1,10 @@
 ---
-title: 고소득층 소득비중 줄었지만 분배개선 불투명
+title: 숙련노동자 버릴 땐 언제고, 이젠 돌아오지 않는다 탓하나
 author:  "박영삼"
-date: "2025-03-14"
+date: "2025-05-09"
 toc: true
 categories: [국세통계, 통합소득, 상위10%, 개인소득]
-image: "tincome4.jpg"
+image: "shipb4.jpg"
 editor: source
 fig-cap-location: top
 ---
