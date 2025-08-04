@@ -4,7 +4,7 @@ author:  "박영삼"
 date: "2025-08-01"
 toc: true
 categories: [교대제, 노동시간, SPC, 산업안전]
-image: "교대제1.jpg"
+image: "교대제3.jpg"
 editor: source
 fig-cap-location: top
 ---
