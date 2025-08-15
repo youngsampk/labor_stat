@@ -38,12 +38,12 @@ format:
       - cosmo
       - theme1.scss
 #    css: mystyles.css
+    include-in-header: includes/verify.html
+    include-after-body: gtag.js
     date-format: "YYYY-MM-dd"         # 2025-08-15
     crossref:
       fig-title: "그림"   # (default is "Figure")
       tbl-title: "표"    # (default is "Table")
       fig-prefix: "그림"   # (default is "Figure")
       tbl-prefix: "표"    # (default is "Table")
-    include-in-header: includes/verify.html
-    include-after-body: gtag.js
 editor: source
