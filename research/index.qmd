@@ -1,5 +1,5 @@
 ---
-title: Research - soon
+title: Research
 listing:
     contents: .
     type: grid
