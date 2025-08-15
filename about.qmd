@@ -12,7 +12,7 @@ about:
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/youngsampk
 ---
 
 박영삼 / 고려대 노동문제연구소 노동데이터센터장
