@@ -1,10 +1,23 @@
+# RStudio 환경 관련
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 .Renviron
-robots.txt
-docs/robots.txt
+
+# OS 잡파일
+*.DS_Store
+
+# Quarto 빌드 산출물
+_site/
+.quarto/
+
+# 검색엔진 인증 HTML (메타태그 방식 쓰면 포함 안 해도 됨)
 naver*.html
 google*.html
+
+# robots.txt는 반드시 포함 (Git에 넣기)
+# robots.txt
+# docs/robots.txt
+
 /.quarto/
