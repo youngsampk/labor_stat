@@ -1,2 +1,5 @@
+# robots.txt (repo 루트)
 User-agent: *
-Allow:/
+Allow: /
+
+Sitemap: https://youngsampk.github.io/labor_stat/sitemap.xml
