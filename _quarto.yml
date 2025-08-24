@@ -38,7 +38,7 @@ format:
       - cosmo
       - theme1.scss
 #    css: mystyles.css
-    include-in-header: includes/verify.html
+    include-in-header: includes/verufy.html
     include-after-body: gtag.js
     date-format: "YYYY-MM-dd"         # 2025-08-15
     crossref:
