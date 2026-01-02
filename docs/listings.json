@@ -3,9 +3,18 @@
     "listing": "/research/index.html",
     "items": [
       "/research/mytomorrows.html",
-      "/research/nonwage_workers.html",
+      "/research/nonwage_workers_2025.html",
       "/research/pharmaccess.html",
       "/research/sensire.html"
+    ]
+  },
+  {
+    "listing": "/notes.html",
+    "items": [
+      "/notes/250901.html",
+      "/notes/250101.html",
+      "/notes/250801.html",
+      "/notes/250804.html"
     ]
   },
   {
@@ -87,18 +96,5 @@
       "/posts/labornews-001/index.html",
       "/posts/labornews-000/index.html"
     ]
-  },
-  {
-    "listing": "/notes.html",
-    "items": [
-      "/notes/250901.html",
-      "/notes/250101.html",
-      "/notes/250801.html",
-      "/notes/250804.html"
-    ]
-  },
-  {
-    "listing": "/docs/notes/notes.html",
-    "items": []
   }
 ]
