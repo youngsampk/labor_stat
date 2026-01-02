@@ -248,7 +248,7 @@ monofont: "D2Coding"
 
 -   통계청은 종속적 노동자 파악 위한 종사상지위에 관한 [국제통계기준(ICSE-18)](https://www.ilo.org/publications/international-classification-status-employment-icse-18-manual)의 국내 통계체계의 도입 계획 정상 추진 필요
 
--   2021년 10월에 종사상지위에 관한 국제노동통계 기준인 ICSE-18를 도입하고 이에 맞춰 [국내통계의 시험조사와 병행조사의 실시를 위한 일정계획](https://www.ksa21.or.kr/includes/lib/attachment_download_post.php?id=3117&idx=4)을 발표했으나 중단된 상태
+-   2021년 10월에 종사상지위에 관한 국제노동통계 기준인 ICSE-18를 도입하고 이에 맞춰 [국내통계의 시험조사와 병행조사의 실시를 위한 일정계획](https://www.ksa21.or.kr/includes/lib/attachment_download_post.php?id=3117&idx=4)을 발표했으나 2023년 본조사 항목에 포함된 이후 내부 검토 진행중
 
 -   실시간으로 고용관계 변형과 탈법적 시도에 관한 정보를 받고 있는 국세청은 잘못된 소득신고 유형이 채택되는 것을 방지해야 할 책임이 있고, 통계청은 종사상지위의 실제와 현실이 어떠한지에 대한 국가통계를 제대로 확립해야 함
 
