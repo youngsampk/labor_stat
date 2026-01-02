@@ -17,6 +17,7 @@
     <lastmod>2025-08-15T13:42:09.338Z</lastmod>
   </url>
   <url>
+<<<<<<< HEAD
     <loc>https://youngsampk.github.io/labor_stat/posts/labornews-031/index.html</loc>
     <lastmod>2026-01-02T07:47:33.480Z</lastmod>
   </url>
@@ -27,5 +28,13 @@
   <url>
     <loc>https://youngsampk.github.io/labor_stat/research/nonwage_workers_2025.html</loc>
     <lastmod>2026-01-02T07:08:49.206Z</lastmod>
+=======
+    <loc>https://youngsampk.github.io/labor_stat/research/nonwage_workers.html</loc>
+    <lastmod>2025-08-31T12:00:16.220Z</lastmod>
+  </url>
+  <url>
+    <loc>https://youngsampk.github.io/labor_stat/research/nonwage_workers_2025.html</loc>
+    <lastmod>2025-09-04T04:46:02.563Z</lastmod>
+>>>>>>> 73238513625748dd50a6c6e69fadfc7138c3aabb
   </url>
 </urlset>
